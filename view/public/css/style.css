@@ -8,7 +8,7 @@
 body{
     width: 100%;
     height: 100vh; /*View por heigth-> vista por alto o tambien "vw" -> vista por ancho*/
-    background-image: url(../img/fondoHojas.jpg);
+    background-image: url(../img/receta.jpg);
     background-position: center center;
     background-size: cover;
     display: flex;
